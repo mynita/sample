@@ -1,7 +1,7 @@
-# sample
+# My 1st Repository 
 
-This repository is full of randomness. Test file for sample.
+This repository is an initial test file.
 
 - this is a bullet
 
-# HEADINGS
+
